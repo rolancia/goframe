@@ -1,3 +1,3 @@
-module github.com/smallnest/goframe
+module github.com/rolancia/goframe
 
 go 1.13
